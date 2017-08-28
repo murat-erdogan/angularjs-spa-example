@@ -11,4 +11,4 @@ angular-ui-router.min.js
 ngroute is not the best practice. So this app is built using ui-router.
 
 Demo:
-http://muraterdogan.co.uk/files/spa
+http://muraterdogan.org/files/spa
